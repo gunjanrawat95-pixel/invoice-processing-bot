@@ -74,7 +74,7 @@ The bot records the **first** rule an invoice breaks.
 | invoice_15 | Exception | Vendor not approved |
 
 <!-- Add a screenshot of your Excel report here, for example:
-![Invoice report](screenshots/invoice_report.png)
+![Invoice report](screenshot/invoice_report.png)
 -->
 
 ---
